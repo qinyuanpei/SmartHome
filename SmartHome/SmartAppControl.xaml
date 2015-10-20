@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="SmartHome.SmartAppControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Width="75" Height="75">
+    <Grid>
+        <StackPanel Name="mAppPanel" Margin="0,10,0,0" >
+            <Button Name="mAppButton" BorderThickness="0" Background="White"  Width="42" Height="42">
+            <Image Name="mAppImage" Width="36" Height="36"></Image>
+            <Button.ToolTip>
+                <ToolTip Name="mToolTip1"  Content=""/>
+            </Button.ToolTip>
+        </Button>
+            <Label Name="mAppLabel" Content="" HorizontalAlignment="Center">
+            <Label.ToolTip>
+                    <ToolTip  Name="mToolTip2" Content=""/>
+            </Label.ToolTip>
+        </Label>
+        </StackPanel>
+        <Button Name="mAppDelete" BorderThickness="0" HorizontalAlignment="Left" Margin="48,-0,0,0" VerticalAlignment="Top" Width="22" Background="Transparent" Height="22" Visibility="Hidden">
+            <Image Source="Resources/Button/BtnDelete.png"/>
+            <Button.ToolTip>
+                <ToolTip Content="删除"/>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+</UserControl>

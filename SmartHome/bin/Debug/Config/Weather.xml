@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDB DBName="Weather" DBVersion="1">
+  <WeatherStructure>
+    <city>银川</city>
+    <cityid>101170101</cityid>
+    <temp1>-3℃</temp1>
+    <temp2>5℃</temp2>
+    <weather>阴转晴</weather>
+    <img1>n2.gif</img1>
+    <ptime>18:00</ptime>
+  </WeatherStructure>
+</XmlDB>

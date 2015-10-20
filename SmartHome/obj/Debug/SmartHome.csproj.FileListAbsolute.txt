@@ -1,0 +1,17 @@
+D:\项目管理\CSharp\SmartHome\SmartHome\bin\Debug\SmartHome.exe.config
+D:\项目管理\CSharp\SmartHome\SmartHome\bin\Debug\SmartHome.exe
+D:\项目管理\CSharp\SmartHome\SmartHome\bin\Debug\SmartHome.pdb
+D:\项目管理\CSharp\SmartHome\SmartHome\bin\Debug\WPFControlEx.dll
+D:\项目管理\CSharp\SmartHome\SmartHome\bin\Debug\WPFControlEx.pdb
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\MainWindow.baml
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartAppControl.baml
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\MainWindow.g.cs
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartAppControl.g.cs
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\App.g.cs
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome_MarkupCompile.cache
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.g.resources
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.Properties.Resources.resources
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.csproj.GenerateResource.Cache
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.exe
+D:\项目管理\CSharp\SmartHome\SmartHome\obj\Debug\SmartHome.pdb

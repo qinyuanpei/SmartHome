@@ -1,0 +1,10 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WPFControlEx">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/WPFControlEx;component/Themes/ButtonEx.xaml"/>
+        <ResourceDictionary Source="/WPFControlEx;component/Themes/WindowEx.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
+
